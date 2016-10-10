@@ -1,0 +1,10 @@
+h1{
+	color: #FF8000;
+	border: 5px solid purple;
+}
+
+
+body {
+	/*background: url(http://www.planwallpaper.com/static/images/518169-backgrounds.jpg);*/
+	background-size: cover;
+}
